@@ -767,6 +767,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Sklavenzentrale */
+.button.button-sklavenzentrale {
+  color: #ffffff;
+  background-color: #363233;
+}
+.button.button-sklavenzentrale:hover,
+.button.button-sklavenzentrale:focus {
+  filter: brightness(90%);
+}
+
+
 /* Slack */
 .button.button-slack {
   color: #000000;
